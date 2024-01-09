@@ -424,12 +424,12 @@ func init() {
 			Parent:     nil,
 		},
 		{
-			Id:         "ERNIE-Bot-4",
+			Id:         "ERNIE-Bot-8k",
 			Object:     "model",
 			Created:    1677649963,
 			OwnedBy:    "baidu",
 			Permission: permission,
-			Root:       "ERNIE-Bot-4",
+			Root:       "ERNIE-Bot-8k",
 			Parent:     nil,
 		},
 		{
