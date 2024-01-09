@@ -66,7 +66,7 @@ const EditChannel = () => {
           localModels = ['PaLM-2'];
           break;
         case 15:
-          localModels = ['ERNIE-Bot', 'ERNIE-Bot-turbo', 'ERNIE-Bot-4', 'Embedding-V1'];
+          localModels = ['ERNIE-Bot', 'ERNIE-Bot-turbo', 'ERNIE-Bot-4', 'ERNIE-Bot-8k', 'Embedding-V1'];
           break;
         case 17:
           localModels = ['qwen-turbo', 'qwen-plus', 'qwen-max', 'qwen-max-longcontext', 'text-embedding-v1'];
